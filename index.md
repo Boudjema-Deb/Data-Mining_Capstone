@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Mining Capstone Project
 
 You can use the [editor on GitHub](https://github.com/Boudjema-Deb/Data-Mining_Capstone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
